@@ -29,4 +29,4 @@ func main() {
 - IMC
 
 ## Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENCE) para mais detalhes.
