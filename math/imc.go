@@ -2,7 +2,7 @@ package math
 
 import "fmt"
 
-func IMC(weight float32, height float32) string {
+func IMC(weight, height float32) string {
 	var result = weight / (height * height)
 
 	if result < 18.5 {
