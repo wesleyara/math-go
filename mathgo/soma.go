@@ -1,5 +1,5 @@
 package mathgo
 
-func Sum(a, b int64) int64 {
+func Soma(a, b int64) int64 {
 	return a + b
 }
